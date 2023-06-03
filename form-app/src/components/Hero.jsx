@@ -14,8 +14,6 @@ const Hero = () => {
 		</div>
 		<video class="main_video" autoPlay loop muted src={videobg} /> 
 		<div class="overlay"></div>
-		
-		
 	</div>
   )
 }

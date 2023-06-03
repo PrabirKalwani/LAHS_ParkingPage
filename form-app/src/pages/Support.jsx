@@ -1,8 +1,11 @@
 import React from 'react'
 import '../styles/Support.css'
+import Feedback from '../components/Feedback'
 const Support = () => {
   return (
-    <div>Support</div>
+    <div>
+      <Feedback />
+    </div>
   )
 }
 

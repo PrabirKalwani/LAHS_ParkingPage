@@ -33,7 +33,8 @@ body,html {
     justify-content: center;
     width: 100%;
     gap: 50px;
-    padding-top: 60px;
+    margin-top: 50px;
+    padding-top:40px;
 }
 
 .nav a {
